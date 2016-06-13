@@ -166,7 +166,7 @@ href="<?php $this->permalink() ?>"<?php };?> class="postShorten-excerpt_link lin
      
           
                 <div class="postShorten-thumbnailimg">
-                    <img alt="" itemprop="image" src="<?php showThumbnail($this); ?> "/>
+                    <img alt="" itemprop="image" src="<?php @showThumbnail($this); ?> "/>
                 </div>
                 <?php endif; ?>    <?php endif; ?> <?php endif; ?> 
                 
