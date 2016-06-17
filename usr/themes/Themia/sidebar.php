@@ -19,7 +19,7 @@
             <li class="sidebar-button">
                 
                     <a  class="sidebar-button-link "
-                         href="<?php $this->options->Categories();?>"
+                         href="http://blog.saberccq.top/index.php/date_categories.html"
                         
                     >
                 
@@ -32,7 +32,7 @@
             <li class="sidebar-button">
                 
                     <a  class="sidebar-button-link "
-                         href="<?php $this->options->Archive();?>"
+                         href="http://blog.saberccq.top/index.php/date_categories.html"
                         
                     >
                 
