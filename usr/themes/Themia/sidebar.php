@@ -19,7 +19,7 @@
             <li class="sidebar-button">
                 
                     <a  class="sidebar-button-link "
-                         href="http://blog.saberccq.top/index.php/categories.html"
+                         href="https://blog.saberccq.top/index.php/categories.html"
                         
                     >
                 
@@ -32,7 +32,7 @@
             <li class="sidebar-button">
                 
                     <a  class="sidebar-button-link "
-                         href="http://blog.saberccq.top/index.php/date_categories.html"
+                         href="https://blog.saberccq.top/index.php/date_categories.html"
                         
                     >
                 
